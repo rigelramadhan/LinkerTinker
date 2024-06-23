@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "LinkerTinker"
 include(":app")
- 
+include(":core")
